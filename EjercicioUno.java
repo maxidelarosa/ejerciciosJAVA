@@ -5,6 +5,8 @@
  */
 package ejerciciouno;
 
+import java.util.Scanner;
+
 /**
  *
  * @author alumno
@@ -13,9 +15,19 @@ public class EjercicioUno {
 
     /**
      * @param args the command line arguments
+     *  se debe mostrar el siguiente mensaje:
+     * esto funciona de maravilla
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+      
+    
+
+      
+    
+    
+    
+    
+    
     }
     
 }
