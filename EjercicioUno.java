@@ -5,7 +5,7 @@
  */
 package ejerciciouno;
 
-import java.util.Scanner;
+
 
 /**
  *
@@ -19,7 +19,8 @@ public class EjercicioUno {
      * esto funciona de maravilla
      */
     public static void main(String[] args) {
-      
+        System.out.println("esto funciona de maravilla");
+        
     
 
       
